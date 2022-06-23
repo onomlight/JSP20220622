@@ -17,3 +17,8 @@ Request 내장객체의 getParameter("파라미터명");
 - 대표적인 예가 @ page 형태의 지시 코드 // 
 - page / include / taglib >> 
 jsp 공부하는 목적 > 실기문제위해서 include > 한번씩 보이긴 하나 시험에서도 안나옴 // 배제함 
+
+// include
+
+
+forward vs 리다이렉트 방식으로 나눠짐 
