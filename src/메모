@@ -12,3 +12,8 @@ Form 전송 파라미터 받기
 Request 내장객체의 getParameter("파라미터명");
 -> HTML 내 속성 = 속성값으로 처리
 -> 스타일 적용(Javascript)
+
+// JSP 지시자
+- 대표적인 예가 @ page 형태의 지시 코드 // 
+- page / include / taglib >> 
+jsp 공부하는 목적 > 실기문제위해서 include > 한번씩 보이긴 하나 시험에서도 안나옴 // 배제함 
