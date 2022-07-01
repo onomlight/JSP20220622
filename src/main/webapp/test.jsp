@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-qwe
+<%@page import="java.sql.*,java.util.*" %>
 </body>
 </html>

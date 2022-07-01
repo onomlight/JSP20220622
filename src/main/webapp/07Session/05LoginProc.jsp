@@ -27,9 +27,10 @@
 			Set<String> set = Cartbean.cart.keySet();
 			boolean flag=false;
 			for(String mapid:set)
+				//모든아이디에 있는 정보를 셋에 넣어줌
 			{
-				if(mapid.equals(id)){
-					flag=true;
+				if(mapid.equals(id)){ // 접속할려고하는 아이디에 일치하는지 확인
+					flag=true; // 플래그가 맞는지 확인함
 				}
 			}
 			if(!flag)
